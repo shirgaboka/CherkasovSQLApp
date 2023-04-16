@@ -1,2 +1,2 @@
 # CherkasovSQLApp
-SQLApp
+cherkasovdata.sql - база данных
