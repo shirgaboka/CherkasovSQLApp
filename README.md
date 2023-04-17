@@ -1,2 +1,2 @@
 # CherkasovSQLApp
-cherkasovdata.sql - база данных
+cherkasovdata.sql - экспортированная база данных с phpMyAdmin
